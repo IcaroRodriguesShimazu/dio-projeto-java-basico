@@ -22,7 +22,7 @@ public class ContaTerminal {
     public static void main(String[] args) throws Exception {
         /**
         * Chama o metodo Scanner.
-        * escaneio input de texto do Scanner.
+        * escaneio input de textos e números do Scanner.
         */
         //Aqui declaramos o Scanner definindo uma variavel para ele como escaneio
         Scanner escaneio = new Scanner(System.in);
